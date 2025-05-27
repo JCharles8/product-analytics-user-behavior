@@ -29,7 +29,7 @@ To simulate and analyze user behavior in a SaaS productivity platform. The goal 
 - Consider nudging tagging behavior to reduce churn
 
 ## View the Analysis
-- 👉 [Jupyter Notebook](./notebooks/user_behavior_analysis.ipynb)
+- 👉 [Jupyter Notebook](./notebooks/user_behavior_analysis.ipynb](http://localhost:8888/notebooks/Productivity_Tool_Project.ipynb)
 - 👉 [Slides Summary](./slides/product_insights_summary.pdf)
 
 ## Author
