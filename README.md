@@ -30,7 +30,8 @@ To simulate and analyze user behavior in a SaaS productivity platform. The goal 
 
 ## View the Analysis
 - 👉 [View Python Script](./Productivity_Tool_Project.py)
-- 👉 [Slides Summary](./slides/product_insights_summary.pdf)
+- 👉 [Product Insights Slide Deck](./slides/product_insights_summary.pdf)
+
 
 ## Author
 Jeff Charles — Analyst with a focus on behavioral insights, clarity-driven design, and user-first strategy.
