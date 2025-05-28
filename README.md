@@ -29,7 +29,7 @@ To simulate and analyze user behavior in a SaaS productivity platform. The goal 
 - Consider nudging tagging behavior to reduce churn
 
 ## View the Analysis
-- 👉 [View Full Analysis on GitHub](./.Productivity_Tool_Project.py)
+- 👉 [View Python Script](./Productivity_Tool_Project.py)
 - 👉 [Slides Summary](./slides/product_insights_summary.pdf)
 
 ## Author
